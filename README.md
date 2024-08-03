@@ -59,5 +59,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/7528a2aa-196c-4a2c-b67b-6ade180358d8)
+
 
